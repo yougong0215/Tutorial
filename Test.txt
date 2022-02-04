@@ -10,3 +10,14 @@ ctrl + ~ ( 숫자기 1 왼쪽에 이따 ) = 터미널창
 git init : 해당 폴더를 깃에서 관리하는폴더로 초기화 명령?
 
 소스제어가 어떻게 변경되고 어디서 변경됬는지 추적하는거
+
+$ git config --global user.name "yougong0215" - 유저 식별
+
+$ git config --global user.email "yougong0215@gmail.com" - 지 이메일 식별
+
+git add Test.txt 샌즈다 오 자동완성 지린다 샌즈 치면 샌즈다 까지 나옴 ㄷㄷ;;;
+이게 신기술인가 ㄷㄷ ( 원래 있잖어 )
+
+두번쨰 수줭 하좌
+
+저장 ( 암거나 쓰래 )
